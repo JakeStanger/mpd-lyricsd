@@ -12,7 +12,7 @@ Currently capable of fetching lyrics from Genius only.
 cargo install mpd-lyricsd
 ```
 
-[crate](https://crates.io/mpd-lyricsd)
+[crate](https://crates.io/crates/mpd-lyricsd)
 
 ### From source
 
